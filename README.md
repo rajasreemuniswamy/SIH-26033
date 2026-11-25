@@ -49,6 +49,9 @@ KisanDirect is a mobile and web marketplace that connects farmers and FPOs (Farm
 - Works with existing government platforms (e-NAM, ONDC) instead of competing with them.
 
 ## Technical Approach
+
+<img width="1266" height="778" alt="image" src="https://github.com/user-attachments/assets/c389585c-cac5-4b20-af15-80f1733c7f77" />
+
 1. Technologies to be used
 - Frontend: React.js or HTML / CSS / JavaScript
 - Mobile: Flutter or React Native (or a responsive web app)
